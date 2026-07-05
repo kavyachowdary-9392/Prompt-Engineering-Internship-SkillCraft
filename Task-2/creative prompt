@@ -1,0 +1,57 @@
+TASK 02: PROMPTING FOR CREATIVITY
+OBJECTIVE
+To explore how prompt structure, tone, persona, and examples influence AI-generated creative outputs. This task demonstrates how different prompts can produce varying levels of creativity, detail, and quality.
+TOPIC: STARTUP IDEAS
+PROMPT 1: BASIC PROMPT
+Prompt
+Generate a startup idea.
+Output
+Create an online marketplace that connects local grocery stores with customers for home delivery.
+Analysis
+This prompt is very broad and provides no context. As a result, the AI generates a common and generic startup idea with limited creativity.
+PROMPT 2: SPECIFIC PROMPT
+Prompt
+Generate a startup idea for college students in India with a budget under ₹50,000.
+Output
+Create a peer-to-peer learning platform where students can teach skills such as coding, graphic design, public speaking, and digital marketing to other students through affordable online workshops.
+Features
+• Student-led workshops
+• Skill certifications
+• Community discussion forums
+• Affordable pricing
+Analysis
+Adding audience, location, and budget constraints results in a more relevant and practical startup idea.
+PROMPT 3: CREATIVE PERSONA PROMPT
+Prompt
+Act as a visionary entrepreneur like Elon Musk. Generate an innovative startup idea that solves a healthcare problem in rural India. Include the business model, target audience, and revenue sources.
+Startup Name
+HealthConnect AI
+Idea
+A network of AI-powered mobile healthcare vans that travel to remote villages and provide basic diagnostics, telemedicine consultations, and digital health records.
+Target Audience
+• Rural communities
+• Elderly citizens
+• Low-income families
+Business Model
+• Monthly village subscriptions
+• Government healthcare partnerships
+• Insurance company collaborations
+Revenue Sources
+• Service subscriptions
+• Government contracts
+• Healthcare data analytics services
+Analysis
+Using a persona and detailed instructions encourages the AI to generate a more innovative and comprehensive solution.
+COMPARISON OF RESULTS
+Prompt Type | Tone | Creativity | Detail Level
+Basic Prompt | Generic | Low | Low
+Specific Prompt | Focused | Medium | Medium
+Persona Prompt | Professional & Innovative | High | High
+KEY LEARNINGS
+1. Specific prompts generate more relevant outputs.
+2. Adding constraints improves practicality.
+3. Using personas increases creativity.
+4. Including output requirements leads to more detailed responses.
+5. Prompt structure directly influences the quality of AI-generated content.
+CONCLUSION
+This exercise demonstrates that prompt engineering plays a crucial role in creative AI tasks. Well-structured prompts that include context, audience, constraints, and personas consistently produce more creative, detailed, and useful outputs than simple or vague prompts. The more guidance provided to the AI, the better the quality and relevance of the generated content.
