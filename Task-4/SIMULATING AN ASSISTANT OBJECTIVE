@@ -1,0 +1,37 @@
+TASK 04: SIMULATING AN ASSISTANT
+OBJECTIVE
+To build a simple AI assistant by chaining multiple prompts or simulating a dialogue flow. The assistant should maintain context across turns and provide structured, consistent responses.
+TASK CHOSEN: JOB INTERVIEW BOT
+The assistant acts as a Job Interview Bot that asks interview questions, evaluates responses, and provides feedback to the user.
+PROMPT FLOW
+Step 1: Greet the user and explain the interview process.
+Step 2: Ask for the user's name and desired job role.
+Step 3: Generate role-specific interview questions.
+Step 4: Evaluate the user's answers.
+Step 5: Provide constructive feedback and improvement suggestions.
+Step 6: Summarize overall performance.
+SAMPLE CONVERSATION
+Assistant: Welcome to the Job Interview Bot. What is your name?
+User: My name is Kavya.
+
+Assistant: Which role are you applying for?
+User: Data Analyst.
+
+Assistant: What are the key responsibilities of a Data Analyst?
+User: Collecting, cleaning, analyzing, and visualizing data.
+
+Assistant: Good answer. Can you explain the importance of data visualization?
+User: It helps present insights clearly and supports decision-making.
+PROMPT ITERATION AND DEBUGGING
+INITIAL ISSUE: The assistant sometimes asked unrelated questions and provided inconsistent feedback.
+
+IMPROVEMENT MADE:
+• Added role-specific question generation.
+• Included structured feedback rules.
+• Maintained conversation context across turns.
+
+RESULT: The assistant produced more relevant questions and consistent evaluations.
+REFLECTION
+Prompt chaining helps create interactive assistants that can handle multi-step conversations effectively. Clear instructions improve reliability, consistency, and user experience.
+CONCLUSION
+This task demonstrated how prompt engineering can be used to simulate an intelligent assistant. Structured prompts and conversation flow enable accurate, context-aware interactions.
