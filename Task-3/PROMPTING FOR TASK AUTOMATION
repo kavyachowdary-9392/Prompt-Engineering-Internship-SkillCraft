@@ -1,0 +1,71 @@
+TASK 03: PROMPTING FOR TASK AUTOMATION
+OBJECTIVE
+
+To apply prompt engineering techniques for automating real-world tasks such as summarizing notes, extracting structured data, and transforming information into different formats.
+
+TASK CHOSEN: NOTE SUMMARIZATION
+AUTOMATION PROMPT
+
+Act as a professional note summarizer.
+
+Read the provided text carefully.
+Identify the main ideas and important details.
+Generate a summary in 5 bullet points.
+Keep the language simple and concise.
+Limit the summary to 100 words.
+INPUT–OUTPUT EXAMPLE 1
+INPUT
+
+Artificial Intelligence (AI) is transforming industries worldwide. It helps automate repetitive tasks, improves decision-making, and increases efficiency.
+
+OUTPUT
+AI is transforming industries worldwide.
+It automates repetitive tasks.
+AI improves decision-making.
+It increases efficiency.
+AI is widely used across sectors.
+INPUT–OUTPUT EXAMPLE 2
+INPUT
+
+Cloud computing allows users to access computing resources over the internet while reducing infrastructure costs.
+
+OUTPUT
+Cloud computing provides online resources.
+It reduces infrastructure costs.
+It improves scalability.
+Data can be accessed remotely.
+It supports flexible operations.
+INPUT–OUTPUT EXAMPLE 3
+INPUT
+
+Digital marketing uses social media, search engines, and email to promote products and services.
+
+OUTPUT
+Digital marketing promotes products online.
+Social media helps increase reach.
+Search engines attract customers.
+Email improves customer engagement.
+Businesses generate more leads.
+PROMPT ITERATION AND DEBUGGING
+INITIAL ISSUE
+
+The first version of the prompt generated summaries with inconsistent lengths and formats.
+
+IMPROVEMENT MADE
+
+Specific instructions were added regarding:
+
+Number of bullet points
+Word limit
+Output format
+RESULT
+
+The generated summaries became more consistent, structured, and reliable.
+
+REFLECTION
+
+Prompt engineering improves task automation by providing clear instructions and constraints. Well-designed prompts ensure consistency, accuracy, and efficiency while reducing manual effort.
+
+CONCLUSION
+
+This task demonstrated how prompt engineering can automate note summarization effectively. Clear objectives, formatting requirements, and constraints help AI consistently produce concise and useful summaries
